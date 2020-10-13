@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CA2 Practice</string>
+    <string name="send">Send</string>
+    <string name="recieve">Recieve</string>
+    <string name="delete">Delete</string>
+    <string name="ivDesc">App_img</string>
+
+
+</resources>
