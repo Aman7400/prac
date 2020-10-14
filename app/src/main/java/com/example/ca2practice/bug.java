@@ -14,10 +14,10 @@ public class bug extends AppCompatActivity {
         setContentView(R.layout.activity_bug);
 
 
-        Intent intent = getIntent();
-        String display_msg = intent.getStringExtra(login.MSG);
-
-        TextView tv1 = findViewById(R.id.help);
-        tv1.setText("" + display_msg);
+//        Intent intent = getIntent();
+//        String display_msg = intent.getStringExtra(login.MSG);
+//
+//        TextView tv1 = findViewById(R.id.help);
+//        tv1.setText("" + display_msg);
     }
 }
